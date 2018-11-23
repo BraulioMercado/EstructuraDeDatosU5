@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\bin\Debug\5.1-Bulbasaur.exe.config
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\bin\Debug\5.1-Bulbasaur.exe
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\bin\Debug\5.1-Bulbasaur.pdb
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\obj\Debug\5.1-Bulbasaur.csprojResolveAssemblyReference.cache
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\obj\Debug\5.1-Bulbasaur.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\obj\Debug\5.1-Bulbasaur.exe
+c:\users\braul\source\repos\5.1-Bulbasaur\5.1-Bulbasaur\obj\Debug\5.1-Bulbasaur.pdb
