@@ -1,0 +1,7 @@
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\bin\Debug\5.2-QuickSort.exe.config
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\bin\Debug\5.2-QuickSort.exe
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\bin\Debug\5.2-QuickSort.pdb
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\obj\Debug\5.2-QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\obj\Debug\5.2-QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\obj\Debug\5.2-QuickSort.exe
+C:\Users\braul\source\repos\5.2-QuickSort\5.2-QuickSort\obj\Debug\5.2-QuickSort.pdb
