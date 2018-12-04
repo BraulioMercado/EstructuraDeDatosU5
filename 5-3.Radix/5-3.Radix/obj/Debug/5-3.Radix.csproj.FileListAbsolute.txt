@@ -1,0 +1,7 @@
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\bin\Debug\5-3.Radix.exe.config
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\bin\Debug\5-3.Radix.exe
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\bin\Debug\5-3.Radix.pdb
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\obj\Debug\5-3.Radix.csprojAssemblyReference.cache
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\obj\Debug\5-3.Radix.csproj.CoreCompileInputs.cache
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\obj\Debug\5-3.Radix.exe
+D:\users\braul\source\repos\5-3.Radix\5-3.Radix\obj\Debug\5-3.Radix.pdb
