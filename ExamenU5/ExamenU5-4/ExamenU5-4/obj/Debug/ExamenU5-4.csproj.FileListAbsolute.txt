@@ -1,0 +1,7 @@
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\bin\Debug\ExamenU5-4.exe.config
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\bin\Debug\ExamenU5-4.exe
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\bin\Debug\ExamenU5-4.pdb
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\obj\Debug\ExamenU5-4.csprojAssemblyReference.cache
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\obj\Debug\ExamenU5-4.csproj.CoreCompileInputs.cache
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\obj\Debug\ExamenU5-4.exe
+C:\Users\braul\Source\Repos\ExamenU5-4\ExamenU5-4\obj\Debug\ExamenU5-4.pdb
